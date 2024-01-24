@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 
 **Sophia Baker**
 
-sophiakibaker · she/her
+@sophiakibaker · she/her
 
-PhD student working with nBOSS to imagine subduction termination in northern Borneo.
+🌏 PhD student working with nBOSS to imagine subduction termination in northern Borneo.
+💛 Advocating for EDI and accessibility in STEM and academia.
+🐍 Predominantly coding in Python.
 
-I code in Python and occassionally bash script.
+📧 sophiakibaker@gmail.com / s.baker1.21@abdn.ac.uk
 
-Interested in EDI and accessibility in STEM and academia.
