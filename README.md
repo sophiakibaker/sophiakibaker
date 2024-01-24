@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 @sophiakibaker · she/her
 
+
 🌏 PhD student working with nBOSS to imagine subduction termination in northern Borneo.
+
 💛 Advocating for EDI and accessibility in STEM and academia.
+
 🐍 Predominantly coding in Python.
+
 
 📧 sophiakibaker@gmail.com / s.baker1.21@abdn.ac.uk
 
