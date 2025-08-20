@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 @sophiakibaker · she/her
 
+⚡Research Scientist in perovskite solar.
 
-🌏 PhD student working with nBOSS to imagine subduction termination in northern Borneo.
+🌏 PhD imaging subduction termination in northern Borneo.
 
 💛 Advocating for EDI and accessibility in STEM and academia.
 
