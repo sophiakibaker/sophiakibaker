@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 🐍 Predominantly coding in Python.
 
 
-📧 sophiakibaker@gmail.com / s.baker1.21@abdn.ac.uk
+📧 sophiakibaker@gmail.com / sophia.baker@powerroll.solar / s.baker1.21@abdn.ac.uk
 
